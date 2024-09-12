@@ -1,6 +1,6 @@
 ## Hello, I'm Andrew 👋
 
-[![](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/andrew-pham-18616123b/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-pham-18616123b/)
 
 <!--
 **andrewp714/andrewp714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

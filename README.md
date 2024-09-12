@@ -1,6 +1,7 @@
 ## Hello, I'm Andrew 👋
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-pham-18616123b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-pham-18616123b/)
+[![GMail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white)](mailto:andrewpham2030@gmail.com)
 
 <!--
 **andrewp714/andrewp714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
